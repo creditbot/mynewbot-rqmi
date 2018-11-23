@@ -2615,4 +2615,4 @@ mentionned.send(` :credit_card: | Transfer Receipt \`\`\`You have received ${arg
 
 
 
-client.login("NTE1MjYwNzMxMDA5MjY5Nzcy.DtlHqA.BgdhH_q67jPBjmNm6Ia0XWX-ur0");
+client.login(process.env.BOT_TOKEN);
